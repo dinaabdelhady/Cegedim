@@ -1,0 +1,4 @@
+INSERT INTO USER (user_name, password) VALUES
+  ('dina','dina'),
+  ('adam', 'adam'),
+  ('yara', 'yara');
